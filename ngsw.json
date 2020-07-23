@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595489779685,
+  "timestamp": 1595490137585,
   "index": "https://TimothyHou.github.io/bitcoin-order-app/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "https://TimothyHou.github.io/bitcoin-order-app/favicon.ico",
         "https://TimothyHou.github.io/bitcoin-order-app/index.html",
-        "https://TimothyHou.github.io/bitcoin-order-app/main.15fdab22add068c609b4.js",
+        "https://TimothyHou.github.io/bitcoin-order-app/main.6ce3d317930ef3881de8.js",
         "https://TimothyHou.github.io/bitcoin-order-app/manifest.webmanifest",
         "https://TimothyHou.github.io/bitcoin-order-app/polyfills-es5.d6dbe74bff0d24406d5b.js",
         "https://TimothyHou.github.io/bitcoin-order-app/polyfills.00e0ac70c7a61a994d40.js",
@@ -65,8 +65,8 @@
     "https://TimothyHou.github.io/bitcoin-order-app/assets/pixel.gif": "87bb3a5dcd68684dee2e401dc8ed016eb6bea75f",
     "https://TimothyHou.github.io/bitcoin-order-app/back6.b820a7afbeaf4e4c5246.jpg": "bb1d88aec46a62d77cf358868f406f68399e7b8f",
     "https://TimothyHou.github.io/bitcoin-order-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://TimothyHou.github.io/bitcoin-order-app/index.html": "2970c9b8f77f6a5f29a8ec6edf85b3cb89e32672",
-    "https://TimothyHou.github.io/bitcoin-order-app/main.15fdab22add068c609b4.js": "5ca97ef23bebc374df3488f42d4e8df97ed24a35",
+    "https://TimothyHou.github.io/bitcoin-order-app/index.html": "76ac74cca0af415e7f5c545687cf9c9d8953666f",
+    "https://TimothyHou.github.io/bitcoin-order-app/main.6ce3d317930ef3881de8.js": "3ff2cb35a695b22c193959b554606e981ba41384",
     "https://TimothyHou.github.io/bitcoin-order-app/manifest.webmanifest": "da1eee6ec517d6398dc60e53058e5fec8304e10f",
     "https://TimothyHou.github.io/bitcoin-order-app/polyfills-es5.d6dbe74bff0d24406d5b.js": "9d8470a6053852e77ee43b505664317f721b13ae",
     "https://TimothyHou.github.io/bitcoin-order-app/polyfills.00e0ac70c7a61a994d40.js": "e68240c3b4dc50491b1b65d39a7791c1572712a0",
